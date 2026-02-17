@@ -8,7 +8,7 @@ public class Table {
         int table = 1;
         for (int i = 1; i <= 10; i++) {
             table = n * i;
-            System.out.println(table);
+            System.out.println(n + " X " + i + " = " + table);
         }
 
     }
